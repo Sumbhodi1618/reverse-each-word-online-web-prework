@@ -1,4 +1,4 @@
-def reverse_each_word(string.join(" "))
+def reverse_each_word(string)
   string = []
        string << string.reverse!
 end
