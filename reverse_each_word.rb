@@ -1,5 +1,4 @@
 def reverse_each_word(string)
-  new_string(+1)
-  string.reverse
+  string.reverse(+1)
 end
 
