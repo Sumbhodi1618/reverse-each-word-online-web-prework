@@ -1,4 +1,4 @@
 def reverse_each_word(string = ["you? are how and there, Hello"])
-           string << .reverse
+           string << string.reverse
 end
 end
