@@ -4,3 +4,5 @@ def reverse_each_word(string = ["you? are how and there, Hello"])
         new = new.revese 
            newArray << new
 end
+new_string
+end
