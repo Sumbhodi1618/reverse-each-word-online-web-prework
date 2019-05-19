@@ -1,3 +1,3 @@
-def reverse_each_word(string = ["you? are how and there, Hello"])
-      string.reverse! = 
+def reverse_each_word(string = ["Hello there, how are you?"])
+      string.reverse
 end
